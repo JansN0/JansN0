@@ -1,5 +1,3 @@
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=OvinduWijethunge&color=orange" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-24-orange" />
